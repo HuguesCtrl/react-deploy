@@ -1,3 +1,3 @@
 # Mon site
 
-url:
+url: https://huguesctrl.github.io/react-deploy/
